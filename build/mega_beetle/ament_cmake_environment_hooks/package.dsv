@@ -1,0 +1,4 @@
+source;share/mega_beetle/local_setup.bash
+source;share/mega_beetle/local_setup.dsv
+source;share/mega_beetle/local_setup.sh
+source;share/mega_beetle/local_setup.zsh
